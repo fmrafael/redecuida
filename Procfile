@@ -1,1 +1,1 @@
-web: gunicorn redecuida:app
+web: gunicorn main:app
