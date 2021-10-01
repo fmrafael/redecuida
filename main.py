@@ -26,6 +26,11 @@ def contact():
 def login():
   return render_template("login.html")
 
+  @app.route('/manifest.json')  
+
+  def manifest():
+    return render_template("manifest.json")
+
 
 
 if __name__ == '__main__':
