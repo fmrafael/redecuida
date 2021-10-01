@@ -1,0 +1,17 @@
+{
+    "name": "RedeCuida - HomeCare",
+    "short_name": "RedeCuida",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://redecuida.life/",
+    "description": "Cuidadores, Enfermeiros, Fisioterapeutas e profissionais de home care",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/static/img/android-chrome-192x192.png",
+            "sizes": "512x512"
+        }
+    ]
+}
